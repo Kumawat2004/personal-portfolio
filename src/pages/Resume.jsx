@@ -86,6 +86,15 @@ const Resume = () => {
               <li>Collaborated with backend teams for API integration.</li>
             </ul>
           </div>
+          <div className="border-l-4 border-blue-500 pl-4 mb-6">
+            <h4 className="text-xl font-semibold">Full Stack Web Developer</h4>
+            <p className="text-gray-700">InviSofts IT Solution Private Limited | September 2025 - Present</p>
+            <ul className="list-disc pl-5 text-gray-600">
+              <li>Improved website speed and user experience.</li>
+              <li>Connected APIs with backend services.</li>
+               <li>Created responsive websites using React.js and Material-UI.</li>
+            </ul>
+          </div>
         </motion.div>
       </div>
     </section>
